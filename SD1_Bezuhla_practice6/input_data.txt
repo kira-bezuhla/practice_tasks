@@ -1,0 +1,7 @@
+6
+Goodwin George 4 5 5
+Alfray Mary 3 4 3
+Watson Mariarty 2 2 3
+Strange Jonny 5 2 4
+Herd Ember 2 2 2
+Rouling Jonny 5 4 5

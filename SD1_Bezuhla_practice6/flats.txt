@@ -1,0 +1,8 @@
+7
+Grigoriy Kyiv 3 10000
+Margaret Kharkiv 2 7500
+Anya Dnipro 2 8000
+Nikolay Lviv 4 15000
+Arsen Mykolaiv 1 7000
+Vitaliy Odessa 3 12500
+Daria Berdyansk 1 5000

@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task1", "task1\task1.vcxproj", "{5EEF743C-51E7-4487-8089-1044F797AFDC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task2", "task2\task2.vcxproj", "{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task3", "task3\task3.vcxproj", "{15996A79-E466-4DA3-B3A1-C6D96292D61C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task4", "task4\task4.vcxproj", "{B35D3259-4DF1-4582-944A-A426E1980B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Debug|x64.ActiveCfg = Debug|x64
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Debug|x64.Build.0 = Debug|x64
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Debug|x86.Build.0 = Debug|Win32
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Release|x64.ActiveCfg = Release|x64
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Release|x64.Build.0 = Release|x64
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Release|x86.ActiveCfg = Release|Win32
+		{5EEF743C-51E7-4487-8089-1044F797AFDC}.Release|x86.Build.0 = Release|Win32
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Debug|x64.ActiveCfg = Debug|x64
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Debug|x64.Build.0 = Debug|x64
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Debug|x86.Build.0 = Debug|Win32
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Release|x64.ActiveCfg = Release|x64
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Release|x64.Build.0 = Release|x64
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Release|x86.ActiveCfg = Release|Win32
+		{19C5D6FC-7899-4EA5-AB99-411FA96BFF3C}.Release|x86.Build.0 = Release|Win32
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Debug|x64.ActiveCfg = Debug|x64
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Debug|x64.Build.0 = Debug|x64
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Debug|x86.ActiveCfg = Debug|Win32
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Debug|x86.Build.0 = Debug|Win32
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Release|x64.ActiveCfg = Release|x64
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Release|x64.Build.0 = Release|x64
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Release|x86.ActiveCfg = Release|Win32
+		{15996A79-E466-4DA3-B3A1-C6D96292D61C}.Release|x86.Build.0 = Release|Win32
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Debug|x64.ActiveCfg = Debug|x64
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Debug|x64.Build.0 = Debug|x64
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Debug|x86.ActiveCfg = Debug|Win32
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Debug|x86.Build.0 = Debug|Win32
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Release|x64.ActiveCfg = Release|x64
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Release|x64.Build.0 = Release|x64
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Release|x86.ActiveCfg = Release|Win32
+		{B35D3259-4DF1-4582-944A-A426E1980B08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262BBDD4-C128-4DBF-A420-D09D3DF85B81}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/bezuhlaks
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = task1\\task1.vcxproj
+		SccProjectName1 = task1
+		SccLocalPath1 = task1
+		SccProjectUniqueName2 = task2\\task2.vcxproj
+		SccProjectName2 = task2
+		SccLocalPath2 = task2
+		SccProjectUniqueName3 = task3\\task3.vcxproj
+		SccProjectName3 = task3
+		SccLocalPath3 = task3
+		SccProjectUniqueName4 = task4\\task4.vcxproj
+		SccProjectName4 = task4
+		SccLocalPath4 = task4
+	EndGlobalSection
+EndGlobal
